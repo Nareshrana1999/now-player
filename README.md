@@ -8,7 +8,7 @@
 
 ## 🎧 Try It Out
 
-[▶️ Try Now (Live Preview)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
+[▶️ Try Now (Live Preview)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/now-player/blob/main/index.html)
 
 ## 📖 Documentation
 
