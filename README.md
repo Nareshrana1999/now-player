@@ -6,9 +6,9 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Nareshrana1999/now-player?style=social)](https://github.com/Nareshrana1999/now-player/stargazers)
 
-## 🎧 Demo
+## 🎧 Live Player site
 
-[▶️ Live Demo](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/now-player/blob/main/index.html)
+[🚀 Visit Live Site](https://nareshrana1999.github.io/now-player/)
 
 ## ✨ Features
 
