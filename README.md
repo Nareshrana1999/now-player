@@ -1,60 +1,35 @@
-# Now Playing - Modern Music Player
+# 🎵 Now Player
 
-A sleek, responsive music player web application built with HTML, CSS, and JavaScript. Enjoy your favorite tunes with a clean, intuitive interface.
+*A beautiful, responsive music player for the web*
 
-## Features
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Nareshrana1999/NareshRana/tree/main/now-player)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Nareshrana1999/NareshRana?style=social)](https://github.com/Nareshrana1999/NareshRana/stargazers)
 
-- 🎵 Play/Pause, Next, and Previous track controls
-- ⏱️ Progress bar with current time and duration display
-- 🎨 Modern, responsive design that works on all devices
-- 🎧 Smooth animations and transitions
-- 📱 Mobile-friendly interface
+## 🎧 Try It Out
 
-## Demo
+[▶️ Try Now (Live Preview)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
 
-[Add a live demo link here once deployed]
+## 📖 Documentation
 
-## Getting Started
+For complete documentation, features, and setup instructions, please visit the [main README](https://github.com/Nareshrana1999/NareshRana#-now-player---modern-music-player).
 
-### Prerequisites
+## 🚀 Quick Start
 
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- No installation required - just open `index.html` in your browser
+1. Clone the repository
+2. Open `now-player/index.html` in your browser
+3. Enjoy your music!
 
-### Installation
+## 📝 License
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/now-player.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd now-player
-   ```
-3. Open `index.html` in your preferred web browser
+MIT [Naresh Rana](https://github.com/Nareshrana1999)
 
-## Usage
+---
 
-1. Add your music files to the `music` directory
-2. Open `script.js` and update the `songs` array with your music files
-3. Open `index.html` in a web browser
-4. Use the player controls to play, pause, skip, or go to the previous track
-
-## Customization
-
-- Add your own music files to the `music` directory
-- Update the `style.css` file to change colors, fonts, and layout
-- Modify `script.js` to add new features or change the player's behavior
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Font Awesome](https://fontawesome.com/) for the beautiful icons
-- All music tracks are for demonstration purposes only - please use your own music files
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/Nareshrana1999">Naresh Rana</a>
+  <br>
+  <a href="https://github.com/Nareshrana1999/NareshRana">View on GitHub</a> | 
+  <a href="https://github.com/Nareshrana1999/NareshRana/issues">Report an Issue</a> | 
+  <a href="https://github.com/Nareshrana1999/NareshRana/pulls">Contribute</a>
+</div>
