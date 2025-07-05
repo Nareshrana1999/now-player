@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Now Playing - Music Player</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="player-container">
+        <div class="player-content">
+            <!-- Song Info -->
+            <div class="song-info">
+                <div class="song-text">
+                    <h1 id="title" class="song-title">Loading...</h1>
+                    <p id="artist" class="song-artist">-</p>
+                </div>
+                
+                <!-- Progress Bar -->
+                <div class="progress-container">
+                    <div class="progress"></div>
+                    <div class="time-display">
+                        <span id="current-time">0:00</span>
+                        <span id="duration">0:00</span>
+                    </div>
+                </div>
+                
+                <!-- Controls -->
+                <div class="player-controls">
+                    <button id="prev" class="control-btn" title="Previous">
+                        <i class="fas fa-step-backward"></i>
+                    </button>
+                    <button id="play" class="control-btn play-btn" title="Play">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <button id="next" class="control-btn" title="Next">
+                        <i class="fas fa-step-forward"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
